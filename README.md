@@ -1,7 +1,9 @@
-# social_app
+# product
 
 A new Flutter project.
+
 ![image](https://user-images.githubusercontent.com/103760832/231221912-75db9fdc-28d0-4b53-92b9-9d48fbc766f0.png)
+
 
 ## Getting Started
 
